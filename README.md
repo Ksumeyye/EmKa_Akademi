@@ -1,0 +1,1 @@
+# Ksumeyye-sumeyye_kaya_numpy1_execises
