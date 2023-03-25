@@ -1,1 +1,1 @@
-# Ksumeyye-sumeyye_kaya_numpy1_execises
+# EmKa Akademi Veri Bilimi Alıştırmalarım
