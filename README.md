@@ -1,1 +1,1 @@
-# EmKa Akademi Veri Bilimi Alıştırmalarım
+# EmKa_Akademi Veri Bilimi Alıştırmalarım
