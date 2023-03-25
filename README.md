@@ -1,1 +1,1 @@
-# EmKa_Akademi Veri Bilimi Alıştırmalarım
+# EmKa_Akademi My Data Science Exercises
